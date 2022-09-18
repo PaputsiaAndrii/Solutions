@@ -1,4 +1,5 @@
-/* buble_sort.c -- sipmle program, which show how works buble sort algorithm.
+/*
+buble_sort.c -- sipmle program, which show how works buble sort algorithm.
 
 Program will ask you to write down value N, and will use it for build 1D N-lenth array.
 Then, program will fill this array by random integer values and show filled array.
